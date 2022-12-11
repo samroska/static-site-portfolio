@@ -1,0 +1,18 @@
+.App {
+ padding: 100px;
+}
+
+.About {
+  border-radius: 10px;
+  height: 560px;
+  outline: 6px grey;
+  display: flex;
+}
+
+.Contact-Info {
+  background-color: #baf7e4;
+  align-items: center;
+  height: 500px;
+  padding: 10px;
+  border-radius: 10px;
+}
